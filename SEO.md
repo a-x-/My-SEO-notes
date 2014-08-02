@@ -24,6 +24,7 @@
 * Разметка текста.
  - `Alt` для изображений, `title` для ссылков :-).
 * Учет региональности (адреса в тексте, настройка в я.вебмастер, я.справочник).
+* Контроль работы копирайтеров TODO (сервисы для определения уникальности).
 
 ##### Тех. обвязка
 * `Sitemap` (имет смысл для крупных разветвленных ресурсов).
@@ -40,6 +41,8 @@
 
 ### Внешние факторы
 * Размещение в *Яндекс.Каталог*, *dmoz* и других.
+* (SMM)
+* Ссылки с авторитетных тематических сайтов.
 
 # Инструменты
 * Яндекс.Вебмастер.
@@ -47,6 +50,8 @@
 * Яндекс.Wordstat.
 * PageWeight.
 * [Google.keywordplanner](https://adwords.google.com/ko/KeywordPlanner).
+* [Семантический анализ текста онлайн, seo-анализ текста](http://advego.ru/text/seo/)
+* [Яндекс.Вебмастер > Контент сайта > Оригинальный контент](https://webmaster.yandex.ru/site/service-plugin.xml?host=20785764&service=ORIGINALS&need_auth=false&new_site=false)
 
 # Термины
 * **ПС** — поисковые системы.
@@ -65,3 +70,5 @@
 # Материалы (литература)
 * http://help.yandex.ru/webmaster.
 * СЕМАНТИЧЕСКОЕ ЯДРО: 6 адовых ошибок от InGate.
+* [Актуальнфе SEO-метрики](http://yellowbanana.ru/blog/2014/02/16/seo-metrics/)
+* [Персональные ответы](http://help.yandex.ru/search/search-results/personalized-answers.xml).
